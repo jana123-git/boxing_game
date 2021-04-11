@@ -1,7 +1,7 @@
 # boxing_game
 
-game_name = 'Boxing Game'  
-if game_name == 'Boxing Game':
+game_name = 'Boxing Game'   
+if game_name == 'Boxing Game': 
     import pygame as pg
     import random
     import sys
